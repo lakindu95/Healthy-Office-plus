@@ -1,0 +1,25 @@
+{
+  "name": "healthy-office-server",
+  "version": "1.0.0",
+  "description": "Healthy Office server",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakindu95/Healthy-Office.git"
+  },
+  "keywords": [
+    "healthy"
+  ],
+  "author": "4Bits",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lakindu95/Healthy-Office/issues"
+  },
+  "homepage": "https://github.com/lakindu95/Healthy-Office#readme",
+  "dependencies": {
+    "mqtt": "^2.6.0"
+  }
+}
