@@ -99,13 +99,16 @@ try:
         while time.time() < timerEnd:
             distance1 = sonar(TRIG1, ECHO1)
             distance2 = sonar(TRIG2, ECHO2)
-            # data = {"distance1": distance1, "distance2": distance2}
+            data = {"distance1": distance1, "distance2": distance2}
+            print(data)
             if (distance1 > threshold) and (distance2 > threshold):
                 isBreakTaken = True
                 break_start = time.time() # timer to calculate how long the break lasted
                 print("You just moved from your seat!")
                 while (distance1 > threshold) or (distance2 > threshold):
-                    time.sleep(3)
+                    time.sleep(0.1)
+                    distance1 = sonar(TRIG1, ECHO1)
+                    distance2 = sonar(TRIG2, ECHO2)
                 break_end = time.time()
                 break_period = break_end - break_start
                 data = "You took a break for: " + str(datetime.timedelta(seconds=break_period))
