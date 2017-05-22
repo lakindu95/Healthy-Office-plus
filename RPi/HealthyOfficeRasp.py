@@ -25,6 +25,7 @@ client.connect("iot.eclipse.org", 1883, 60)
 
 # Object declaration for getting current date and time
 current = datetime.datetime.now()
+timestamp = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')
 
 # Alert
 Rasptrigger = 21
@@ -57,9 +58,9 @@ else:
 pulse_start = 0
 pulse_end = 0
 
-
 # Function to fetch precise distance of obstacle
 def sonar(trigger, echo):
+    print "Entered Sonar Function"
     global pulse_start, pulse_end
 
     if RPi:
@@ -86,14 +87,19 @@ def sonar(trigger, echo):
     # Round the distance into readable format in cm
     distance = round(distance, 2)
 
+    print "Distance: ", distance
     return distance
 
-
 try:
+    print "Entering Try Block"
     while True:
         distance1 = sonar(TRIG1, ECHO1)
         distance2 = sonar(TRIG2, ECHO2)
-        data = {"distance1": distance1, "distance2": distance2}
+        data = {"distances": {
+            "distance1": distance1,
+            "distance2": distance2},
+            "timestamp": timestamp
+        }
         payload = json.dumps(data)
         print payload
         client.publish(MQTT_CHANNEL, payload)
