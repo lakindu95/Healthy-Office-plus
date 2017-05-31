@@ -12,3 +12,348 @@
 {"level":"info","message":"Need a Break!! Time since last break : 02:53:01","timestamp":"2017-05-30T21:23:12.246Z"}
 {"level":"info","message":"User has taken a break","timestamp":"2017-05-30T21:23:13.242Z"}
 {"level":"info","message":"Message <1d00cd21-ce55-5251-3d06-510db0f6a1c2@surfedge.lk> sent: 250 2.0.0 Ok: queued as E95B56211C","timestamp":"2017-05-30T21:23:15.679Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T21:54:17.582Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T21:54:17.586Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T21:54:26.889Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T21:54:26.893Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-30T21:54:44.343Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-30T21:54:55.090Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 03:24:44","timestamp":"2017-05-30T21:54:55.092Z"}
+{"level":"info","message":"Message <bb85c705-2d1c-e6c3-c700-aaf526eceb77@surfedge.lk> sent: 250 2.0.0 Ok: queued as 357116211C","timestamp":"2017-05-30T21:54:58.903Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T21:55:39.478Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T21:55:39.483Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-30T21:55:41.076Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-30T21:55:51.090Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 03:25:41","timestamp":"2017-05-30T21:55:51.090Z"}
+{"level":"info","message":"Message <c47f0b8f-8013-2ce7-c2a6-77658a89f070@surfedge.lk> sent: 250 2.0.0 Ok: queued as A0D376211C","timestamp":"2017-05-30T21:55:54.377Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T21:56:30.240Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T21:56:30.247Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T21:57:09.143Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T21:57:09.151Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T21:57:33.774Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T21:57:33.782Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-30T21:57:35.119Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-30T21:57:45.133Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 03:27:35","timestamp":"2017-05-30T21:57:45.134Z"}
+{"level":"info","message":"Message <b2739cfa-8a7e-ac09-c7fc-6ce9160ac3a5@surfedge.lk> sent: 250 2.0.0 Ok: queued as C5D8C6211C","timestamp":"2017-05-30T21:57:48.437Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T21:58:20.426Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T21:58:20.442Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-30T21:58:22.138Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T21:58:44.893Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T21:58:44.898Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-30T21:58:48.982Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-30T22:02:20.809Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-30T22:02:20.815Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-30T22:02:21.947Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-30T22:02:32.791Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 03:32:21","timestamp":"2017-05-30T22:02:32.792Z"}
+{"level":"info","message":"Message <92170e43-1583-459d-696d-1bdbaa55c853@surfedge.lk> sent: 250 2.0.0 Ok: queued as AC1C86211C","timestamp":"2017-05-30T22:02:36.362Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-30T22:03:32.113Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 03:32:21","timestamp":"2017-05-30T22:03:32.113Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-30T22:03:32.809Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 03:32:21","timestamp":"2017-05-30T22:03:32.810Z"}
+{"level":"info","message":"Message <7e4572d5-1525-6b47-ee59-3553a0892a10@surfedge.lk> sent: 250 2.0.0 Ok: queued as EF2356211C","timestamp":"2017-05-30T22:03:35.794Z"}
+{"level":"info","message":"Message <2a373bc2-09ec-5d3f-4450-b58066038f37@surfedge.lk> sent: 250 2.0.0 Ok: queued as 6628A6211E","timestamp":"2017-05-30T22:03:36.095Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-30T22:04:32.176Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 03:32:21","timestamp":"2017-05-30T22:04:32.177Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-30T22:04:32.853Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 03:32:21","timestamp":"2017-05-30T22:04:32.853Z"}
+{"level":"info","message":"Message <cc474afa-ad19-1bfc-7068-4d1408184b39@surfedge.lk> sent: 250 2.0.0 Ok: queued as AE4506211C","timestamp":"2017-05-30T22:04:35.430Z"}
+{"level":"info","message":"Message <7a203d0a-8890-8c18-6371-d559cd30f4c6@surfedge.lk> sent: 250 2.0.0 Ok: queued as 57F4D6211E","timestamp":"2017-05-30T22:04:36.106Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:40.560Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:40.865Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:40.866Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:40.878Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:41.480Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:41.853Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:41.855Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:41.858Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:42.481Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:42.854Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:42.856Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:42.858Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:43.490Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:43.856Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:43.857Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:43.859Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:44.481Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:44.858Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:44.859Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:44.861Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:45.486Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:45.857Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:45.858Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:45.859Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:46.488Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:46.856Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:46.856Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:46.859Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:47.474Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:47.858Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:47.859Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:47.863Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:48.489Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:48.856Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:48.857Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:48.858Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:49.483Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:49.858Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:49.859Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:49.860Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:50.484Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:50.857Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:50.858Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:50.859Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:51.495Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-30T22:04:51.858Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 00 seconds","timestamp":"2017-05-30T22:04:51.859Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-30T22:04:51.862Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-30T22:04:52.485Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:29:41.182Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:29:41.191Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:30:12.219Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:30:12.224Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:30:23.003Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:00:12","timestamp":"2017-05-31T02:30:23.004Z"}
+{"level":"info","message":"Message <b687d17a-ea79-e37b-bbfb-fec66b4b0741@surfedge.lk> sent: 250 2.0.0 Ok: queued as 55D6A6211C","timestamp":"2017-05-31T02:30:27.027Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:31:07.158Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:31:07.169Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:33:05.000Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:33:05.007Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T02:33:07.750Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:33:18.541Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:03:07","timestamp":"2017-05-31T02:33:18.542Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T02:33:19.495Z"}
+{"level":"info","message":"Message <5bef330c-45c5-05a0-14ee-68dbf0030ec2@surfedge.lk> sent: 250 2.0.0 Ok: queued as 5B9006211C","timestamp":"2017-05-31T02:33:22.117Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:34:13.030Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:34:13.036Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T02:34:14.519Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:34:24.552Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:04:14","timestamp":"2017-05-31T02:34:24.553Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T02:34:26.544Z"}
+{"level":"info","message":"Message <bdaf1d50-7574-7f01-3e16-f5d44d39e974@surfedge.lk> sent: 250 2.0.0 Ok: queued as 1C0256211C","timestamp":"2017-05-31T02:34:27.847Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T02:34:32.560Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T02:34:32.561Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T02:34:32.569Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:34:42.593Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:04:32","timestamp":"2017-05-31T02:34:42.593Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T02:34:44.581Z"}
+{"level":"info","message":"Message <614fc566-5c75-2593-bce6-7e5c2ebc8b0f@surfedge.lk> sent: 250 2.0.0 Ok: queued as 0DC1D6211C","timestamp":"2017-05-31T02:34:45.818Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:45:53.248Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:45:53.252Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T02:45:54.803Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:46:05.807Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:15:54","timestamp":"2017-05-31T02:46:05.808Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T02:46:06.800Z"}
+{"level":"info","message":"Message <6d7ba560-491c-78b3-9269-4f80a7b35a18@surfedge.lk> sent: 250 2.0.0 Ok: queued as 6F4C46211C","timestamp":"2017-05-31T02:46:09.162Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T02:46:12.829Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T02:46:12.830Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T02:46:12.837Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:46:23.805Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:16:12","timestamp":"2017-05-31T02:46:23.806Z"}
+{"level":"info","message":"Message <d4eff540-58dd-be4f-01fc-0f2b73b05722@surfedge.lk> sent: 250 2.0.0 Ok: queued as 417346211C","timestamp":"2017-05-31T02:46:27.077Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:47:09.087Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:47:09.093Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T02:47:10.811Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:48:12.115Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:48:12.121Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T02:48:13.837Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:48:24.845Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:18:13","timestamp":"2017-05-31T02:48:24.846Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T02:48:25.859Z"}
+{"level":"info","message":"Message <546d4fc3-a503-2f84-72ad-26374d3cc141@surfedge.lk> sent: 250 2.0.0 Ok: queued as C96CD6211C","timestamp":"2017-05-31T02:48:28.535Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T02:48:31.859Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T02:48:31.860Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T02:48:31.879Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:48:42.838Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:18:31","timestamp":"2017-05-31T02:48:42.839Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T02:48:43.836Z"}
+{"level":"info","message":"Message <0f8f7f3f-47dd-a98e-0963-f8ff652566d8@surfedge.lk> sent: 250 2.0.0 Ok: queued as 671556211C","timestamp":"2017-05-31T02:48:46.305Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T02:51:16.374Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T02:51:16.380Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T02:51:17.890Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:51:27.909Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:21:17","timestamp":"2017-05-31T02:51:27.909Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T02:51:29.891Z"}
+{"level":"info","message":"Message <d09a1a30-c9bf-7ce4-e846-e24d52368aed@surfedge.lk> sent: 250 2.0.0 Ok: queued as 7AB066211C","timestamp":"2017-05-31T02:51:31.175Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T02:51:35.892Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T02:51:35.893Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T02:51:35.900Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T02:51:45.897Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 08:21:35","timestamp":"2017-05-31T02:51:45.897Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T02:51:47.896Z"}
+{"level":"info","message":"Message <2b9a1df1-c4b2-5a0b-570d-aab64846594c@surfedge.lk> sent: 250 2.0.0 Ok: queued as 505F66211C","timestamp":"2017-05-31T02:51:49.149Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T03:55:20.385Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T03:55:20.390Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T03:58:10.477Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T03:58:21.223Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 09:28:10","timestamp":"2017-05-31T03:58:21.223Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T03:58:22.219Z"}
+{"level":"info","message":"Message <fc7973f3-6ee1-e494-42df-baf0dc5ba3d4@surfedge.lk> sent: 250 2.0.0 Ok: queued as A1A846211C","timestamp":"2017-05-31T03:58:25.010Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T03:58:28.217Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 05 seconds","timestamp":"2017-05-31T03:58:28.218Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T03:58:28.224Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T03:58:51.348Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T03:58:51.353Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T03:59:17.485Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T03:59:28.238Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 09:29:17","timestamp":"2017-05-31T03:59:28.241Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T03:59:29.225Z"}
+{"level":"info","message":"Message <e9252fbf-a8a3-48ba-0c3a-b619da950c3c@surfedge.lk> sent: 250 2.0.0 Ok: queued as 577016211C","timestamp":"2017-05-31T03:59:31.715Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T03:59:35.226Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T03:59:35.227Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T03:59:35.233Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T03:59:45.234Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 09:29:35","timestamp":"2017-05-31T03:59:45.235Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T04:06:03.795Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T04:06:03.801Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T04:06:17.088Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T04:06:27.838Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 09:36:17","timestamp":"2017-05-31T04:06:27.840Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T04:06:28.830Z"}
+{"level":"info","message":"Message <39537476-563c-8f0d-e56e-c65a338e4777@surfedge.lk> sent: 250 2.0.0 Ok: queued as BE47E6211C","timestamp":"2017-05-31T04:06:31.121Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T04:06:34.831Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T04:07:25.024Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T04:07:25.028Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T04:07:26.856Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T04:07:37.893Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 09:37:26","timestamp":"2017-05-31T04:07:37.893Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T04:07:38.857Z"}
+{"level":"info","message":"Message <d44ede9e-fe4f-d69a-b720-8d93936d2eeb@surfedge.lk> sent: 250 2.0.0 Ok: queued as 097BA6211C","timestamp":"2017-05-31T04:07:41.434Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T04:07:44.857Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T05:11:59.350Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T05:11:59.354Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T05:12:10.272Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T05:12:21.024Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 10:42:10","timestamp":"2017-05-31T05:12:21.024Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T05:12:22.018Z"}
+{"level":"info","message":"Message <2cb4baaf-7dd4-bdd5-3f11-5fab7684796e@surfedge.lk> sent: 250 2.0.0 Ok: queued as 463A36211C","timestamp":"2017-05-31T05:12:24.676Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T05:12:28.015Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T05:20:10.020Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T05:20:10.026Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T05:20:11.198Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T05:20:22.156Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 10:50:11","timestamp":"2017-05-31T05:20:22.157Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T05:20:23.169Z"}
+{"level":"info","message":"Message <5c4a9dcf-079b-f50a-6f72-b8cbc3c3efba@surfedge.lk> sent: 250 2.0.0 Ok: queued as 751A06211E","timestamp":"2017-05-31T05:20:25.897Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T05:20:29.172Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T05:21:58.565Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T05:21:58.570Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T05:22:00.162Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T05:22:11.171Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 10:52:00","timestamp":"2017-05-31T05:22:11.171Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T05:22:12.159Z"}
+{"level":"info","message":"Message <d5fd1ca0-8913-70bb-a59c-9cca877877e5@surfedge.lk> sent: 250 2.0.0 Ok: queued as 37A826211E","timestamp":"2017-05-31T05:22:14.619Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T05:22:18.191Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T07:11:01.755Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T07:11:01.761Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T07:11:10.812Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T07:11:21.574Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 12:41:10","timestamp":"2017-05-31T07:11:21.575Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T07:11:22.552Z"}
+{"level":"info","message":"Message <dcd8cd5c-570e-bac6-bda8-6cd1ea2eac60@surfedge.lk> sent: 250 2.0.0 Ok: queued as AE08F6211C","timestamp":"2017-05-31T07:11:25.311Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T07:11:28.556Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T07:13:59.466Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T07:13:59.472Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T07:14:00.607Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T07:14:11.609Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 12:44:00","timestamp":"2017-05-31T07:14:11.610Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T07:14:12.603Z"}
+{"level":"info","message":"Message <5acac0bc-a764-0721-6a38-8920c48d1ba5@surfedge.lk> sent: 250 2.0.0 Ok: queued as B733E6211C","timestamp":"2017-05-31T07:14:15.375Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T07:14:18.619Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T07:14:18.619Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T07:14:18.627Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T07:14:29.611Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 12:44:18","timestamp":"2017-05-31T07:14:29.611Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T07:14:30.607Z"}
+{"level":"info","message":"Message <51d1a179-4b74-6f29-7ca5-877013c49a38@surfedge.lk> sent: 250 2.0.0 Ok: queued as 2E82E6211C","timestamp":"2017-05-31T07:14:32.874Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T07:21:16.293Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T07:21:16.298Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T07:21:17.709Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T07:21:27.720Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 12:51:17","timestamp":"2017-05-31T07:21:27.720Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T07:21:29.713Z"}
+{"level":"info","message":"Message <2de2626e-ef58-adef-83d4-bb6391c6e14b@surfedge.lk> sent: 250 2.0.0 Ok: queued as A78176211C","timestamp":"2017-05-31T07:21:31.291Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T07:21:35.712Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 05 seconds","timestamp":"2017-05-31T07:21:35.713Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T07:21:35.719Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T07:21:45.717Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 12:51:35","timestamp":"2017-05-31T07:21:45.718Z"}
+{"level":"info","message":"Message <53344f1e-38a9-fe2f-adf0-5a41fc3ad225@surfedge.lk> sent: 250 2.0.0 Ok: queued as 5F9DA6211C","timestamp":"2017-05-31T07:21:49.143Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T07:58:12.702Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T07:58:12.717Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T08:46:51.904Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T08:46:51.913Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T08:49:51.190Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T08:50:01.938Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:19:51","timestamp":"2017-05-31T08:50:01.939Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T08:50:02.928Z"}
+{"level":"info","message":"Message <5b9c8318-9ee1-98c9-9f6f-969a074e2e35@surfedge.lk> sent: 250 2.0.0 Ok: queued as D8BCA6211C","timestamp":"2017-05-31T08:50:05.610Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T08:50:08.927Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 05 seconds","timestamp":"2017-05-31T08:50:08.928Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T08:50:08.939Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T08:50:18.961Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:20:08","timestamp":"2017-05-31T08:50:18.961Z"}
+{"level":"info","message":"Message <a3b20d2c-abfb-b259-b19b-8e0d3b14d605@surfedge.lk> sent: 250 2.0.0 Ok: queued as 5DCB06211C","timestamp":"2017-05-31T08:50:22.186Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T08:51:18.981Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:20:08","timestamp":"2017-05-31T08:51:18.982Z"}
+{"level":"info","message":"Message <27fcb328-3b2c-171b-2242-8b110e5d3396@surfedge.lk> sent: 250 2.0.0 Ok: queued as 8B4AE6211C","timestamp":"2017-05-31T08:51:23.249Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T08:52:19.016Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:20:08","timestamp":"2017-05-31T08:52:19.017Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T08:55:32.754Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T08:55:32.758Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T08:55:34.084Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T08:55:46.135Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T08:55:52.090Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 05 seconds","timestamp":"2017-05-31T08:55:52.091Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T08:55:52.104Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T08:56:03.112Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:25:52","timestamp":"2017-05-31T08:56:03.113Z"}
+{"level":"info","message":"Message <b9ba1a92-1f37-a762-6687-54e6177a243c@surfedge.lk> sent: 250 2.0.0 Ok: queued as 9B1ED6211C","timestamp":"2017-05-31T08:56:07.374Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T08:57:02.107Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:25:52","timestamp":"2017-05-31T08:57:02.107Z"}
+{"level":"info","message":"Message <a3d6c94c-e8f3-8030-dcff-6daeeae4e539@surfedge.lk> sent: 250 2.0.0 Ok: queued as 8B8F06211C","timestamp":"2017-05-31T08:57:05.404Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T08:58:02.123Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:25:52","timestamp":"2017-05-31T08:58:02.124Z"}
+{"level":"info","message":"Message <0db59d61-4df6-8784-cc3b-435e184cd9ac@surfedge.lk> sent: 250 2.0.0 Ok: queued as 6351D6211C","timestamp":"2017-05-31T08:58:05.202Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T09:08:09.021Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T09:08:09.033Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T09:08:13.287Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T09:08:23.301Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:38:13","timestamp":"2017-05-31T09:08:23.302Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T09:08:25.288Z"}
+{"level":"info","message":"Message <ea6bc7f8-34c3-9213-0eb7-d7ffc47a1774@surfedge.lk> sent: 250 2.0.0 Ok: queued as AF4FF6211C","timestamp":"2017-05-31T09:08:27.473Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T09:08:31.308Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T09:08:31.309Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T09:08:31.329Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T09:08:42.293Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:38:31","timestamp":"2017-05-31T09:08:42.293Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T09:08:43.290Z"}
+{"level":"info","message":"Message <cdbb3945-e8c3-acd5-a179-52931ae245e4@surfedge.lk> sent: 250 2.0.0 Ok: queued as D04016211C","timestamp":"2017-05-31T09:08:46.632Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T09:12:24.801Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T09:12:24.806Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T09:12:26.342Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T09:12:36.354Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:42:26","timestamp":"2017-05-31T09:12:36.356Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T09:12:38.366Z"}
+{"level":"info","message":"Message <414302de-713d-10d9-f42a-cfdeb1172352@surfedge.lk> sent: 250 2.0.0 Ok: queued as AF8AA6211C","timestamp":"2017-05-31T09:12:39.477Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T09:12:44.370Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T09:12:44.381Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T09:12:44.391Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T09:12:55.351Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:42:44","timestamp":"2017-05-31T09:12:55.352Z"}
+{"level":"info","message":"Message <4e4f78a5-75a2-a49e-388e-a3cc3eac6284@surfedge.lk> sent: 250 2.0.0 Ok: queued as B5BFE6211C","timestamp":"2017-05-31T09:12:58.577Z"}
+{"level":"info","message":"\u001b[36mStatic Path Set to C:\\Healthy Office\\Server1/public\u001b[0m","timestamp":"2017-05-31T09:15:00.211Z"}
+{"level":"info","message":"Server listening on port 3000\n","timestamp":"2017-05-31T09:15:00.219Z"}
+{"level":"info","message":"User has been detected","timestamp":"2017-05-31T09:15:01.384Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T09:15:11.395Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:45:01","timestamp":"2017-05-31T09:15:11.396Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T09:15:13.383Z"}
+{"level":"info","message":"Message <45daa791-23ab-cd16-e597-8e745b1d525c@surfedge.lk> sent: 250 2.0.0 Ok: queued as 02A616211C","timestamp":"2017-05-31T09:15:14.746Z"}
+{"level":"info","message":"User has returned to seat","timestamp":"2017-05-31T09:15:19.386Z"}
+{"level":"info","message":"User has stayed away for --> 00 minutes and 06 seconds","timestamp":"2017-05-31T09:15:19.386Z"}
+{"level":"info","message":"Sending to firebase successfull","timestamp":"2017-05-31T09:15:19.392Z"}
+{"level":"info","message":"Email has been sent to user","timestamp":"2017-05-31T09:15:29.391Z"}
+{"level":"info","message":"Need a Break!! Time since last break : 14:45:19","timestamp":"2017-05-31T09:15:29.391Z"}
+{"level":"info","message":"User has taken a break","timestamp":"2017-05-31T09:15:31.387Z"}
+{"level":"info","message":"Message <7994488f-a2f2-4e2a-b8b7-a3fcfb068cd2@surfedge.lk> sent: 250 2.0.0 Ok: queued as D55176211C","timestamp":"2017-05-31T09:15:32.754Z"}

@@ -18,7 +18,6 @@ const serviceAccount = require("./firebase/serviceKey.json"); //serviceaccount k
 const Spinner = require('cli-spinner').Spinner; //spinner object
 var winston = require('winston');
 var spinner;
-//setting up log file using library winston logger
 
 
 
@@ -30,7 +29,8 @@ var spinner;
         spinner.setSpinnerString("|/-\\");
         spinner.start();
     }
- 
+
+//setting up log file using library winston logger 
 winston.add(
   winston.transports.File, {
     filename: 'Healthyoffice.log',
@@ -47,7 +47,7 @@ winston.add(
 //connecting firebase using default firebase access method and code and sending the serviceAccount as a paramenter
 admin.initializeApp({ 
     credential: admin.credential.cert(serviceAccount),
-    databaseURL: "https://healthy-office-2.firebaseio.com" //chnged database
+    databaseURL: "https://healthyofficeplus.firebaseio.com" //chnged database
 });
 
 const db = admin.database(); //variable to access database in firebase admin
@@ -95,7 +95,8 @@ var firstTime=false;
 var isSeated=false;
 var startTime=0;
 var endTime=moment();
-
+var count=0;
+var count1=0;
 
 
 client.on('connect', function () {
@@ -110,9 +111,25 @@ client.on('message', function(topic, message) {
 
 
 function businessLogic(message) {
-   stopSpin();
-    var distance1 = message.distance1;
-    var distance2 = message.distance2; 
+   spinner.stop(true);
+     var distance1 = message.distance1;
+    var distance2 = message.distance2;
+    if(count<15 ){
+
+    count++;
+    distance2=distance2+count;
+    distance1=distance1+count;
+    } else if(count1<15){
+
+    count1++;
+     distance2=distance2+15-count1;
+    distance1=distance1+15-count1;
+    } else if(count1>14){
+    	count1++
+    	 distance2=25;
+    distance1=25;
+    }
+    
     // var clientTime = message.timestamp;
     var clientTime = moment();  
 
@@ -151,9 +168,9 @@ function getDuration(){
     var difference = moment.utc(moment(endTime,"DD/MM/YYYY HH:mm:ss").diff(moment(startTime,"DD/MM/YYYY HH:mm:ss"))).format("HH:mm:ss");   
     var minutes=difference.slice(3,5);
     var seconds=difference.slice(6,8);
-     winston.log("info","User has stayed away for --> " + minutes + " minutes and "+ seconds +" seconds");
+     winston.log("info","User has stayed away for  --> " + minutes + " minutes and "+ seconds +" seconds");
     startSpin();
-    sendDatabase("IpBBEfCob0c1GaYkvAzog9rVdKn1/",difference);
+    sendDatabase("JrkMiTXvngYETdEFeurAQL1vcn13/",difference);
 }
 
 function getMail(){
@@ -175,7 +192,7 @@ if(difference==10 && (!isSeated)){
 
 //shows numbers of client messages received
 function processBreaks(distance1, distance2){
-    console.log("Client Messages : " + clientMessageCount + " --> Distance 1 : "+ distance1 +" Distance 2 : "+ distance2);
+    console.log("Client Messages : " + clientMessageCount + "  --> Distance 1 : "+ distance1 +"    Distance 2 : "+ distance2);
 }
 
 function getTime(){
@@ -184,16 +201,15 @@ function getTime(){
 
 //send database the time difference to be used in mobile application
 function sendDatabase(dbName, payload1) {
-
-  if(db.ref(dbName).push(payload1)){ //unique key and difference value
-  winston.log('info', 'Sending to firebase successfull')
+var timeNow = getTime();
+if(db.ref(dbName).push(payload1)){ //unique key and difference value
+//db.ref(dbName).child({difference:payload1});
+  winston.log('info', 'Sending to firebase successfull');
 } else {
     
      winston.log('error', 'Sending not successfull');
 }
 stopSpin();
-   //var ref = db.ref(dbName);
-   // ref.update({difference:payload1});
 }
 
 function sendEmail(subject,message) {
