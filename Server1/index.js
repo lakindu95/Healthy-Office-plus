@@ -111,25 +111,11 @@ client.on('message', function(topic, message) {
 
 
 function businessLogic(message) {
+
    spinner.stop(true);
-     var distance1 = message.distance1;
-    var distance2 = message.distance2;
-    if(count<15 ){
+  var distance1 = message.distances.distance1;
+  var distance2 = message.distances.distance2;
 
-    count++;
-    distance2=distance2+count;
-    distance1=distance1+count;
-    } else if(count1<15){
-
-    count1++;
-     distance2=distance2+15-count1;
-    distance1=distance1+15-count1;
-    } else if(count1>14){
-    	count1++
-    	 distance2=25;
-    distance1=25;
-    }
-    
     // var clientTime = message.timestamp;
     var clientTime = moment();  
 
@@ -170,7 +156,7 @@ function getDuration(){
     var seconds=difference.slice(6,8);
      winston.log("info","User has stayed away for  --> " + minutes + " minutes and "+ seconds +" seconds");
     startSpin();
-    sendDatabase("JrkMiTXvngYETdEFeurAQL1vcn13/",difference);
+    sendDatabase("co0Si35YsNfJMTQm306ul3mGm8w1/",difference);
 }
 
 function getMail(){
@@ -178,7 +164,7 @@ function getMail(){
 timeCheck = moment();
 var difference = moment.utc(moment(timeCheck,"DD/MM/YYYY HH:mm:ss").diff(moment(endTime,"DD/MM/YYYY HH:mm:ss"))).format("ss");
 
-if(difference==10 && (!isSeated)){
+if(difference==40 && (!isSeated)){
    startSpin();
     console.log("Sending Email...");
     sendEmail("Watch Out!","You need to take a break");
