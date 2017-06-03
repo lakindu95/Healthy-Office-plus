@@ -4,10 +4,12 @@ import imp
 import json
 import paho.mqtt.client as paho
 
+#if the RPi is false give alternative values to test
 try:
     imp.find_module('RPi')
     import RPi.GPIO as GPIO
     RPi = True
+#Giving alternative values
 except ImportError:
     RPi = False
     DEBUG_PULSE_START = 0
@@ -83,7 +85,7 @@ def sonar(trigger, echo):
     # Difference between transmission and reception of pulse
     pulse_duration = pulse_end - pulse_start
     # Formulate time into distance
-    distance = pulse_duration * 171500
+    distance = pulse_duration * 1715
     # Round the distance into readable format in cm
     distance = round(distance, 2)
 
@@ -100,8 +102,11 @@ try:
             "distance2": distance2},
             "timestamp": timestamp
         }
+        #passing json values to a variable
         payload = json.dumps(data)
+        #console log
         print payload
+        #Send data to MQTT
         client.publish(MQTT_CHANNEL, payload)
         time.sleep(1)
 
